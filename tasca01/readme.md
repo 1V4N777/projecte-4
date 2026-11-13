@@ -13,12 +13,3 @@ Crear un tauler Kanban compartit amb Microsoft Planner per organitzar, repartir 
 6. Quan una tasca estigui acabada, moure-la a **Finalitzada** i registrar la data real de finalització.
 7. Actualitzar diàriament l'estat de les tasques segons el progrés del projecte.
 
-## Documentació i lliurament
-
-Dins de la carpeta `Tasca1` del repositori, cal crear el document `Kanban.md`, que ha d'incloure:
-
-- Relació inicial de totes les tasques del Backlog.
-- Captures del tauler Kanban cada divendres, al final de cada setmana.
-- Captura de l'estat final del projecte.
-- Gràfics de resum generats per Microsoft Planner, cadascun en una captura individual.
-- Enllaç públic al
